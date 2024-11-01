@@ -978,6 +978,7 @@ header .container .search i {
   border: 1px solid var(--main-color);
   width: fit-content;
   margin: 0 auto;
+  border-radius: 10px;
 }
 
 .pricing .plans .plan .foot a:hover {
